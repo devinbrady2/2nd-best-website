@@ -1,0 +1,14 @@
+body {
+    background-image: url("https://i.kym-cdn.com/photos/images/newsfeed/003/053/208/b7e.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.caption {
+    color: white;
+    position: absolute;
+    top: 450px;
+    left: 400px;
+    font-size: 50px;
+}
